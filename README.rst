@@ -16,7 +16,7 @@ Pull the module into your namespace:
 
 .. code-block:: python
 
-    from pizzapi import *
+    from pizzapy import *
 
 First, construct a ``Customer`` object and set the customer's address:
 
