@@ -1,17 +1,17 @@
-# Pizza-Hack
-This is a Python wrapper for the Dominos Pizza API.
+Pizza-Hack
+==========
+This is a Python wrapper for the Dominos Pizza API. It's a port of `the Pizzapy Node.js module <https://github.com/RIAEvangelist/node-dominos-pizza-api>`_ written by `RIAEvangelist <https://github.com/RIAEvangelist>`_.
 
-It's a port of `the Pizzapy Node.js module <https://github.com/RIAEvangelist/node-dominos-pizza-api>`_ written by `RIAEvangelist <https://github.com/RIAEvangelist>`_.
-
-## Requirements
+Requirements
+------------
 1. requests
 1. pyhamcrest
 1. xmltodict
 1. pytest
 1. mock
 
-## Quick Start
-
+Instructions to run:
+--------------------
 Pull the module into your namespace:
 
 .. code-block:: python
