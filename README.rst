@@ -5,10 +5,10 @@ This is a Python wrapper for the Dominos Pizza API. It's a port of `the Pizzapy 
 Requirements
 ------------
 1. requests
-1. pyhamcrest
-1. xmltodict
-1. pytest
-1. mock
+2. pyhamcrest
+3. xmltodict
+4. pytest
+5. mock
 
 Instructions to run:
 --------------------
